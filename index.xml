@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 4</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-04/</link><pubDate>Fri, 21 Nov 2025 13:33:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-04/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 5</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-05/</link><pubDate>Tue, 25 Nov 2025 09:08:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-05/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Der Körper $K$ ist angeordnet. In einer früheren Version des Aufgabenblatts fehlte diese Notiz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Induktion über $n$
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Im Induktionsschritt lässt sich &lt;strong&gt;nicht&lt;/strong&gt; $(1+x)^n \cdot (1+x) \geq (1+x)^n$ verwenden, weil $(1+x)$ in dieser Aufgabe kleiner ist als $0$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Stattdessen könnt ihr $(1+x)^n \cdot (1+x) = (1+x)^n + x \cdot (1+x)^n$ verwenden.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Fallunterscheidung
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Die Fälle sind $(1+x)^n \geq 0$ und $(1+x)^n &amp;lt; 0$. In beiden Fällen ist die Aussage leicht, allerdings aus unterschiedlichen Gründen.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
+&lt;p&gt;Gebt wieder in jedem Schritt an, welches Axiom ihr benutzt.&lt;/p&gt;</description></item><item><title>Serie 4</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-04/</link><pubDate>Fri, 21 Nov 2025 13:33:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-04/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;details class="details-container"&gt;
