@@ -14,10 +14,6 @@ draft: false
 
 - {{< details >}} Stattdessen könnt ihr $(1+x)^n \cdot (1+x) = (1+x)^n + x \cdot (1+x)^n$ verwenden. {{</ details >}}
 
-- {{< details >}} Fallunterscheidung {{</ details >}}
-
-- {{< details >}} Die Fälle sind $(1+x)^n \geq 0$ und $(1+x)^n < 0$. In beiden Fällen ist die Aussage leicht, allerdings aus unterschiedlichen Gründen. {{</ details >}}
-
 # Aufgabe 2
 
 Gebt wieder in jedem Schritt an, welches Axiom ihr benutzt.
@@ -52,7 +48,7 @@ Es sind drei Aussagen zu zeigen.
 
 # Aufgabe 4
 
-- Achtet darauf, dass für die "Multiplikation" $nx$ *nicht* die Axiome der Multiplikation gelten, weil $\mathbb N$ keine Teilmenge des Körpers ist. Ihr wisst über $\mathbb N$ nur das, was ihr in der Vorlesung über $\mathbb N$ gelernt habt, von $K$ kennt ihr nur die Körperaxiome, und über die Interaktion zwischen $\mathbb N$ und $K$ (also Ausdrücke der Form $nx$) wisst ihr nur das, was in der Aufgabenstellung definiert wurde.
+Achtet darauf, dass für die "Multiplikation" $nx$ *nicht* die Axiome der Multiplikation gelten, weil $\mathbb N$ keine Teilmenge des Körpers ist. Ihr wisst über $\mathbb N$ nur das, was ihr in der Vorlesung über $\mathbb N$ gelernt habt, von $K$ kennt ihr nur die Körperaxiome, und über die Interaktion zwischen $\mathbb N$ und $K$ (also Ausdrücke der Form $nx$) wisst ihr nur das, was in der Aufgabenstellung definiert wurde.
 
 ## (a)
 
