@@ -14,5 +14,4 @@ Du kannst ihn verstecken, indem du ihn noch einmal anklickst.
 {{</ details >}}
 
 Übungsaufgaben für Induktionsbeweise findest du hier:
-
-[https://www.emath.de/Referate/induktion-aufgaben-loesungen.pdf](https://www.emath.de/Referate/induktion-aufgaben-loesungen.pdf)
+[PDF-Download](https://www.emath.de/Referate/induktion-aufgaben-loesungen.pdf)
