@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 6</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-06/</link><pubDate>Wed, 03 Dec 2025 19:54:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-06/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 7</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-07/</link><pubDate>Thu, 11 Dec 2025 12:29:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-07/</guid><description>&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
+&lt;h2 id="a-n--1_k-neq-1_k"&gt;(a) $n + 1_K \neq 1_K$&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Ihr könnt zum Beispiel zeigen, dass alle Elemente aus $\mathbb N_K$ in $K_+$ liegen.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Das liegt daran, dass es eine induktive Menge gibt, deren Elemente allesamt größer sind als null.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="b-peano-axiome"&gt;(b) Peano-Axiome&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Achtung&lt;/strong&gt;: Frühere Aufgaben zu $\mathbb N$ setzten bereits voraus, dass die Peano-Axiome gelten. Das $\mathbb N_K$ aus dieser Aufgabe ist allerdings auf eine neue Art definiert. Ihr könnt also nicht diejenigen früheren Übungsaufgaben benutzen, die voraussetzen, dass die Axiome gelten.&lt;/p&gt;</description></item><item><title>Serie 6</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-06/</link><pubDate>Wed, 03 Dec 2025 19:54:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-06/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Benutzt den Hinweis auf dem Blatt. Ihr müsst allerdings begründen, wieso das genügt.&lt;/li&gt;
 &lt;/ul&gt;
