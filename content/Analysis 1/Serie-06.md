@@ -56,11 +56,12 @@ draft: false
 
     - {{< details >}} Es gibt zwei Fälle: {{</ details >}}
 
-    - {{< details >}} Es kann entweder keine Lösung geben oder genau $2$. Ihr müsst zeigen, dass beide Fälle eintreten können (also Beispiele finden), und beweisen, dass es keinen dritten Fall gibt. {{</ details >}}
+    - {{< details >}} Es kann entweder keine Lösung geben, eine oder genau $2$. Ihr müsst zeigen, dass all diese Fälle eintreten können (also Beispiele finden), und beweisen, dass es keinen dritten Fall gibt. {{</ details >}}
 
     - {{< details >}} Ihr könnt für die letzte Aussage zeigen, dass für alle Lösungen $x,y$ gilt: $x = y$ oder $x = -y$. {{</ details >}}
     - {{< details >}} Der Grund ist, dass $x-y = 0$ oder $x+y = 0$ gelten muss. {{</ details >}}
     - {{< details >}} Betrachtet dazu $(x-y)(x+y) = x^2 - y^2$. {{</ details >}}
+    - Genau eine Lösung: {{< details >}} Zum Beispiel in $\mathbb F_2$ (siehe letzte Übungsblätter) kann es genau eine Lösung geben, da dort 1 = -1 gilt. {{</ details >}}
 
 # Aufgabe 4: $\inf(A+B) = \inf(A) + \inf(B)$
 
