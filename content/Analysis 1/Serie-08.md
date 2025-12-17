@@ -36,8 +36,7 @@ Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschrei
 ## (c) $x_{n+1} - x_n$ ist eine Nullfolge
 
 - Siehe *Hinweis* auf Blatt 7:
-> Ein Beweis, der zeigen soll, dass eine Folge gegen einen Grenzwert konver-
-giert, beginnt stets mit "Sei $\epsilon > 0$."
+> Ein Beweis, der zeigen soll, dass eine Folge gegen einen Grenzwert konvergiert, beginnt stets mit "Sei $\epsilon > 0$."
 
 - {{< details >}} Es gibt für $|x_{n+1} - x_n - 0|$ zwei Fälle zu unterscheiden. {{</ details >}}
 
