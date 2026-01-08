@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 8</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-08/</link><pubDate>Wed, 17 Dec 2025 16:09:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-08/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 9</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-09/</link><pubDate>Thu, 08 Jan 2026 08:53:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-09/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;p&gt;Überlegt euch am besten zuerst, wie $(x_n - y_n)_n$ aussehen soll, und wählt dann $x_n$ und $y_n$ so, dass ihr dieses Ergebnis erhaltet.&lt;/p&gt;
+&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
+&lt;p&gt;Bitte vergesst nicht, das archimedische Axiom, Vollständigkeit von $\mathbb R$ o. Ä. zu erwähnen, wenn ihr sie benutzt.&lt;/p&gt;
+&lt;h1 id="aufgabe-3"&gt;Aufgabe 3&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Es genügt, (i) $\Rightarrow$ (ii) $\Rightarrow$ (iii) $\Rightarrow$ (iv) $\Rightarrow$ i zu zeigen.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ (iii) $\Rightarrow$ (iv)
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Hier müsst ihr eine Teilfolge konstruieren. Das Vorgehen ist ähnlich wie in Präsenzaufgabe A auf diesem Blatt.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Für jedes $k \in \mathbb N$ müsst ihr also ein $n_k$ finden. Wählt dazu zum Beispiel $C = k$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Jetzt gibt es laut (iii) ein solches $x_{n_k}$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Zu zeigen ist noch, dass diese Teilfolge bestimmt gegen $\infty$ divergiert.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ (iv) $\Rightarrow$ (i)
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Schaut in eure Notizen zur Definition des Limes Superior. In den alten Notizen wurde es zum Beispiel als $\lim_{n \to \infty} \sup ( x_k \mid k \geq n )$ definiert. (Die Klammern sollten selbstverständlich geschwungen sein.) Ihr müsstet also zeigen, dass dieses Supremum bestimmt gegen $\infty$ divergiert.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Es genügt, $\sup ( x_k \mid k \geq n ) \geq \sup ( x_{n_k} \mid k \geq N )$ zu zeigen.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="aufgabe-4"&gt;Aufgabe 4&lt;/h1&gt;
+&lt;h2 id="a_n--b_n--c_n"&gt;$a_n &amp;lt; b_n &amp;lt; c_n$&lt;/h2&gt;
+&lt;p&gt;Wenn ihr die Terme unformt, um zu einer wahren Aussage zu gelangen, setzt die Implikationspfeile in die richtige Richtung (die ihr auch benötigt!).
+Besser ist es beim Aufschreiben, von wahren Aussagen, z. B. $a^2 &amp;lt; n$, auszugehen und daraus die gewünschte Aussage herzuleiten.&lt;/p&gt;</description></item><item><title>Serie 8</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-08/</link><pubDate>Wed, 17 Dec 2025 16:09:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-08/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;p&gt;Seht euch die Definition von Konvergenz sehr genau an.
 Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschreiben.&lt;/p&gt;
 &lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
