@@ -1,5 +1,5 @@
 ---
-title: "Serie 6"
+title: "Serie 06"
 date: 2025-12-03T19:54:00+01:00
 draft: false
 ---
