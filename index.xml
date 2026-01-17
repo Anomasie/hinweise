@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 9</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-09/</link><pubDate>Thu, 08 Jan 2026 08:53:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-09/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 10</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-10/</link><pubDate>Sat, 17 Jan 2026 12:53:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-10/</guid><description>&lt;h1 id="aufgabe-3"&gt;Aufgabe 3&lt;/h1&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Der Limes Superior ist der größte Häufungspunkt, der Limes Inferior der kleinste.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;h1 id="aufgabe-4"&gt;Aufgabe 4&lt;/h1&gt;
+&lt;h2 id="b-die-häufungspunkte-sind-mathbb-n"&gt;(b) Die Häufungspunkte sind $\mathbb N$&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Die Menge der Häufungspunkte soll &lt;em&gt;genau&lt;/em&gt; $\mathbb N$ sein. Eine Abzählung von $\mathbb Q$ ist also kein Beispiel, da hier die Menge der Häufungspunkte $\mathbb R \supsetneq \mathbb N$ ist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wahrscheinlich ist die Aufgabe leichter, wenn ihr &lt;em&gt;(a)&lt;/em&gt; gelöst habt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Die Folge $(x_n)_n$ muss unendlich oft an jedes $m \in \mathbb N$ zurückkehren. Ihr könnt natürlich nicht &amp;ldquo;erst alle $m \in \mathbb N$ besuchen und dann wieder zurückkehren&amp;rdquo;, weil es unendlich viele $\mathbb N$ gibt. Aber:
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Die Menge $m \in \mathbb N$ mit $m \leq M$ ist endlich.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="c-die-häufungspunkte-sind-p"&gt;(c) Die Häufungspunkte sind $P$&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dass die Folge $(p_n)_n$ beliebig ist, heißt &lt;strong&gt;nicht&lt;/strong&gt;, dass ihr sie wählen könnt. Ihr könnt euch stattdessen vorstellen, dass sie fest ist, euch aber nicht bekannt. Eure Konstruktion muss trotzdem funktionieren.&lt;/p&gt;</description></item><item><title>Serie 09</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-09/</link><pubDate>Thu, 08 Jan 2026 08:53:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-09/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;p&gt;Überlegt euch am besten zuerst, wie $(x_n - y_n)_n$ aussehen soll, und wählt dann $x_n$ und $y_n$ so, dass ihr dieses Ergebnis erhaltet.&lt;/p&gt;
 &lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
 &lt;p&gt;Bitte vergesst nicht, das archimedische Axiom, Vollständigkeit von $\mathbb R$ o. Ä. zu erwähnen, wenn ihr sie benutzt.&lt;/p&gt;
@@ -78,7 +114,7 @@
 &lt;h1 id="aufgabe-4"&gt;Aufgabe 4&lt;/h1&gt;
 &lt;h2 id="a_n--b_n--c_n"&gt;$a_n &amp;lt; b_n &amp;lt; c_n$&lt;/h2&gt;
 &lt;p&gt;Wenn ihr die Terme unformt, um zu einer wahren Aussage zu gelangen, setzt die Implikationspfeile in die richtige Richtung (die ihr auch benötigt!).
-Besser ist es beim Aufschreiben, von wahren Aussagen, z. B. $a^2 &amp;lt; n$, auszugehen und daraus die gewünschte Aussage herzuleiten.&lt;/p&gt;</description></item><item><title>Serie 8</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-08/</link><pubDate>Wed, 17 Dec 2025 16:09:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-08/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+Besser ist es beim Aufschreiben, von wahren Aussagen, z. B. $a^2 &amp;lt; n$, auszugehen und daraus die gewünschte Aussage herzuleiten.&lt;/p&gt;</description></item><item><title>Serie 08</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-08/</link><pubDate>Wed, 17 Dec 2025 16:09:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-08/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;p&gt;Seht euch die Definition von Konvergenz sehr genau an.
 Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschreiben.&lt;/p&gt;
 &lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
@@ -149,7 +185,7 @@ Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschrei
 &lt;/details&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Vergesst nicht, (kurz) das &amp;ldquo;Insbesondere&amp;rdquo; zu begründen.&lt;/p&gt;</description></item><item><title>Serie 7</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-07/</link><pubDate>Thu, 11 Dec 2025 12:29:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-07/</guid><description>&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
+&lt;p&gt;Vergesst nicht, (kurz) das &amp;ldquo;Insbesondere&amp;rdquo; zu begründen.&lt;/p&gt;</description></item><item><title>Serie 07</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-07/</link><pubDate>Thu, 11 Dec 2025 12:29:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-07/</guid><description>&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
 &lt;h2 id="a-n--1_k-neq-1_k"&gt;(a) $n + 1_K \neq 1_K$&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -170,7 +206,7 @@ Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschrei
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="b-peano-axiome"&gt;(b) Peano-Axiome&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Achtung&lt;/strong&gt;: Frühere Aufgaben zu $\mathbb N$ setzten bereits voraus, dass die Peano-Axiome gelten. Das $\mathbb N_K$ aus dieser Aufgabe ist allerdings auf eine neue Art definiert. Ihr könnt also nicht diejenigen früheren Übungsaufgaben benutzen, die voraussetzen, dass die Axiome gelten.&lt;/p&gt;</description></item><item><title>Serie 6</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-06/</link><pubDate>Wed, 03 Dec 2025 19:54:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-06/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Achtung&lt;/strong&gt;: Frühere Aufgaben zu $\mathbb N$ setzten bereits voraus, dass die Peano-Axiome gelten. Das $\mathbb N_K$ aus dieser Aufgabe ist allerdings auf eine neue Art definiert. Ihr könnt also nicht diejenigen früheren Übungsaufgaben benutzen, die voraussetzen, dass die Axiome gelten.&lt;/p&gt;</description></item><item><title>Serie 06</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-06/</link><pubDate>Wed, 03 Dec 2025 19:54:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-06/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Benutzt den Hinweis auf dem Blatt. Ihr müsst allerdings begründen, wieso das genügt.&lt;/li&gt;
 &lt;/ul&gt;
@@ -243,7 +279,7 @@ Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschrei
 &lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;In der Aufgabe dürft ihr nur benutzen, was ihr bereits in der Vorlesung gezeigt habt.&lt;/p&gt;</description></item><item><title>Serie 5</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-05/</link><pubDate>Tue, 25 Nov 2025 09:08:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-05/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;p&gt;In der Aufgabe dürft ihr nur benutzen, was ihr bereits in der Vorlesung gezeigt habt.&lt;/p&gt;</description></item><item><title>Serie 05</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-05/</link><pubDate>Tue, 25 Nov 2025 09:08:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-05/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Der Körper $K$ ist angeordnet. In einer früheren Version des Aufgabenblatts fehlte diese Notiz.&lt;/p&gt;
@@ -276,7 +312,7 @@ Die Aufgabe ist nicht schwer, achtet nur darauf, sie logisch richtig aufzuschrei
 &lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
 &lt;p&gt;Gebt wieder in jedem Schritt an, welches Axiom ihr benutzt.&lt;/p&gt;
 &lt;h1 id="aufgabe-3"&gt;Aufgabe 3&lt;/h1&gt;
-&lt;p&gt;Es sind drei Aussagen zu zeigen.&lt;/p&gt;</description></item><item><title>Serie 4</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-04/</link><pubDate>Fri, 21 Nov 2025 13:33:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-04/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;p&gt;Es sind drei Aussagen zu zeigen.&lt;/p&gt;</description></item><item><title>Serie 04</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-04/</link><pubDate>Fri, 21 Nov 2025 13:33:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-04/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;details class="details-container"&gt;
