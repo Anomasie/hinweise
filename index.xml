@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 10</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-10/</link><pubDate>Sat, 17 Jan 2026 12:53:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-10/</guid><description>&lt;h1 id="aufgabe-3"&gt;Aufgabe 3&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hinweise</title><link>https://anomasie.github.io/hinweise/</link><description>Recent content on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 11</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-11/</link><pubDate>Wed, 21 Jan 2026 16:54:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-11/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;h2 id="a"&gt;(a)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Benutzt &lt;em&gt;Lemma (Charakterisierung Häufungspunkt)&lt;/em&gt; (Abschnitt 3.6 im Skript).
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Macht euch klar, was ihr wisst, und was ihr beweisen wollt.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Ihr braucht die Dreiecksungleichung.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="b"&gt;(b)&lt;/h2&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Ihr könnt zum Beispiel, falls $C \leq x_n \leq D$ für alle $n$ gilt, $C-1 \leq p \leq D+1$ zeigen.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
+&lt;h2 id="a-und-b"&gt;(a) und (b)&lt;/h2&gt;
+&lt;p&gt;Geht einfach langsam die Definition von Konvergenz durch und versucht, zu jedem $\epsilon &amp;gt; 0$ ein $N \in \mathbb N$ mit der gewünschten Eigenschaft zu finden.&lt;/p&gt;</description></item><item><title>Serie 10</title><link>https://anomasie.github.io/hinweise/analysis-1/serie-10/</link><pubDate>Sat, 17 Jan 2026 12:53:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-1/serie-10/</guid><description>&lt;h1 id="aufgabe-3"&gt;Aufgabe 3&lt;/h1&gt;
 &lt;details class="details-container"&gt;
  &lt;summary&gt;
  Der Limes Superior ist der größte Häufungspunkt, der Limes Inferior der kleinste.
