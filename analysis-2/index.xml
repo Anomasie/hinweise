@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Analysis 2 on Hinweise</title><link>https://anomasie.github.io/hinweise/analysis-2/</link><description>Recent content in Analysis 2 on Hinweise</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://anomasie.github.io/hinweise/analysis-2/index.xml" rel="self" type="application/rss+xml"/><item><title>Serie 06</title><link>https://anomasie.github.io/hinweise/analysis-2/serie-06/</link><pubDate>Fri, 15 May 2026 13:33:00 +0100</pubDate><guid>https://anomasie.github.io/hinweise/analysis-2/serie-06/</guid><description>&lt;h1 id="aufgabe-1"&gt;Aufgabe 1&lt;/h1&gt;
+&lt;h2 id="a"&gt;(a)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Betrachte $x,y \in I$. Zu zeigen ist, dass $|f(x) - f(y)| = 0$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Du kannst nun $(x_k)_{n=0}^n$ konstruieren mit $x_0 = x$, $x_n = y$, auf so eine Art, dass alle $x_k$ den gleichen Abstand zueinander haben.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Jetzt betrachte $|f(x) - f(y)| \leq \sum_{k=1}^n |f(x_k) - f(x_{k-1})|$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Was passiert für $n \to \infty$?
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="b"&gt;(b)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Betrachte eine obere Schranke von $|f&amp;rsquo;|$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Das ist eine mögliche Lipschitz-Konstante.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="aufgabe-2"&gt;Aufgabe 2&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;details class="details-container"&gt;
+ &lt;summary&gt;
+ Induktion über $n$.
+ &lt;/summary&gt;
+ &lt;div&gt;&lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
