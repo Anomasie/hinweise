@@ -10,7 +10,7 @@ draft: false
 
 - {{< details >}} Betrachte $x,y \in I$. Zu zeigen ist, dass $|f(x) - f(y)| = 0$. {{</ details >}}
 
-- {{< details >}} Du kannst nun $(x_k)_{n=0}^n$ konstruieren mit $x_0 = x$, $x_n = y$ und $|x_k - x_{k-1}| = \frac 1 n |x-y|$. Alle $x_k$ haben also den gleichen Abstand zueinander. {{</ details >}}
+- {{< details >}} Du kannst nun $(x_k)_{n=0}^n$ konstruieren mit $x_0 = x$, $x_n = y$, auf so eine Art, dass alle $x_k$ den gleichen Abstand zueinander haben. {{</ details >}}
 
 - {{< details >}} Jetzt betrachte $|f(x) - f(y)| \leq \sum_{k=1}^n |f(x_k) - f(x_{k-1})|$. {{</ details >}}
 
