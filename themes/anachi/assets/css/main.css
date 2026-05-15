@@ -1,6 +1,9 @@
-@tailwind base;
+/*@tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities;*/
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
 
 .details-container[open] summary {
     filter: blur(0);
@@ -15,6 +18,6 @@
 }
 
 /* fixes inconsistency with Chrome */
-.details-container summary > :last-child {
+.details-container summary> :last-child {
     margin-bottom: 0px;
 }
